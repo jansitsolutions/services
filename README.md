@@ -1,6 +1,4 @@
 
-<div align="center">
-
 # Jans IT-Solutions
 
 ### Maßgeschneiderte IT-Lösungen für Ihren Wettbewerbsvorteil
@@ -11,8 +9,6 @@ Wir entwickeln individuelle Lösungen, die exakt auf Ihre Anforderungen zugeschn
 [**🌐 Zur Website**](https://jans-it-solutions.de) &nbsp;·&nbsp; [**📝 Blog**](https://jans-it-solutions.de/blog) &nbsp;·&nbsp; [**📬 Kontakt**](https://jans-it-solutions.de/#contact)
 
 ---
-
-</div>
 
 ## Was wir tun
 
